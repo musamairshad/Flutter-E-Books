@@ -1,6 +1,7 @@
 ## This repository offers a collection of popular e-books on Flutter, which you can easily share with aspiring developers. Just select a book, click the download button, and you're set!
 - Flutter E-Books:
   - [Burd B. Flutter For Dummies 2020](https://github.com/musamairshad/Flutter-E-Books/blob/master/Burd%20B.%20Flutter%20For%20Dummies%202020.pdf)
+  - [Data Structures & Algorithms in Dart](https://github.com/musamairshad/Flutter-E-Books/blob/master/Data%20Structures%20%26%20Algorithms%20in%20Dart.pdf)
   - [Flutter Apprentice New Version](https://github.com/musamairshad/Flutter-E-Books/blob/master/Flutter%20Apprentice%20New%20Version.pdf)
   - [Flutter Complete Reference](https://github.com/musamairshad/Flutter-E-Books/blob/master/Flutter%20Complete%20Reference.pdf)
   - [Flutter Cookbook](https://github.com/musamairshad/Flutter-E-Books/blob/master/Flutter%20Cookbook.pdf)
